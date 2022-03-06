@@ -1,4 +1,4 @@
-const CLEFAPI = '9d6250a214fb9065149330c25c3e75ac' ;
+const CLEFAPI = '' ; //<--Your API key right here
 let resultatsAPI ;
 let temps = document.querySelector(".temps") ;
 let temperature = document.querySelector(".temperature") ;
